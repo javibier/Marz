@@ -14,3 +14,17 @@
     width: 400px;
     float: left;  
 }
+
+/****Header****/
+
+header {
+	height: 721px;
+	background-color: black;
+}
+
+header h1 {
+    font-size: 140px;
+    color: white;
+    padding: 580px 0 0 940px;
+    margin: 0 auto;
+}
