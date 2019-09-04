@@ -1,44 +1,49 @@
 /***** GRID ******/
 
 .full-width {
-    width: 1200px;
-    margin: 0 auto;
+    max-width: 1800px;
 }
 
 .half-width {
-    width: 600px;
+    max-width: 900px;
     float: left;
 }
 
 .third-width {
-    width: 400px;
+    max-width: 600px;
     float: left;  
 }
 
 .fourth-width {
-	width: 300px;
+	max-width: 4500px;
 	float: left;
+}
+
+.video-full-width {
+	width: 400px;
+	margin: 0 auto;
 }
 
 /****Header****/
 
 header {
+	max-width: 1800px;
 	height: 721px;
 	background-color: black;
+	margin: 0 auto;
 }
 
 header h1 {
     font-size: 140px;
     color: white;
-    padding: 180px 0 0 40px;
     margin: 0 auto;
 }
+
 
 /*****Videos****/
 
 #mainvideo {
-	padding: 100px 0 200px 400px;
-	margin: 0 0 0 0;
+	margin: 0 auto;
 	width: 800px;
 }
 
@@ -51,10 +56,9 @@ header h1 {
     
 }
 
-/****Social Medis*****/
+/****Social Media*****/
 #social-media {
 	background-color: black;
-	margin: 0 0 0 0;
 	height: 600px
 }
 
