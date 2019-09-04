@@ -37,9 +37,15 @@ header h1 {
 /*****Videos****/
 
 #mainvideo {
-	padding: 100px 0 300px 400px;
+	padding: 100px 0 200px 400px;
+	margin: 0 0 0 0;
+	width: 800px;
+}
+
+#subvideo {
+	margin: 0 0 0 0;
 }
 
 #video2 {
-	
+    
 }
