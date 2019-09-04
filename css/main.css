@@ -43,9 +43,23 @@ header h1 {
 }
 
 #subvideo {
-	margin: 0 0 0 0;
+	margin: 0 auto;
+	height: 200px;
 }
 
 #video2 {
     
 }
+
+/****Social Medis*****/
+#social-media {
+	background-color: black;
+	margin: 0 0 0 0;
+	height: 600px
+}
+
+
+#social-media h1 {
+    color: white;
+}
+
