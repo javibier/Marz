@@ -27,7 +27,6 @@
 /****Header****/
 
 header {
-	max-width: 1800px;
 	height: 721px;
 	background-color: black;
 	margin: 0 auto;
@@ -43,8 +42,7 @@ header h1 {
 /*****Videos****/
 
 #mainvideo {
-	margin: 0 auto;
-	width: 800px;
+	margin: 20px 0 20px 500px;	
 }
 
 #subvideo {
@@ -59,11 +57,12 @@ header h1 {
 /****Social Media*****/
 #social-media {
 	background-color: black;
-	height: 600px
+	height: 600px;
 }
 
 
 #social-media h1 {
     color: white;
+    text-align: center;
 }
 
