@@ -1,21 +1,21 @@
 /***** GRID ******/
 
 .full-width {
-    max-width: 1800px;
+    max-width: 2000px;
 }
 
 .half-width {
-    max-width: 900px;
+    max-width: 1000px;
     float: left;
 }
 
 .third-width {
-    max-width: 600px;
+    max-width: 665px;
     float: left;  
 }
 
 .fourth-width {
-	max-width: 4500px;
+	max-width: 500px;
 	float: left;
 }
 
@@ -28,7 +28,8 @@
 
 header {
 	height: 721px;
-	background-color: black;
+	background: url('../img/marz-profile.jpg');
+	background-size: cover;
 	margin: 0 auto;
 }
 
