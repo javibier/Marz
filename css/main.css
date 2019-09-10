@@ -37,7 +37,7 @@ header h1 {
     font-size: 140px;
     color: red;
     margin: 0 auto;
-    padding-top: 790px;
+    padding-top: 793px;
     padding-left: 1380px;
 }
 
@@ -45,7 +45,7 @@ header h1 {
 /*****Videos****/
 
 #mainvideo {
-	margin: 20px 0 20px 500px;	
+	margin: 40px 0 40px 680px;	
 }
 
 #subvideo {
@@ -66,6 +66,10 @@ header h1 {
 }
 
 #video5 {
+    margin: 5px 85px 5px 85px;
+}
+
+#video6 {
     margin: 5px 85px 5px 85px;
 }
 
