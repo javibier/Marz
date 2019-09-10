@@ -27,7 +27,7 @@
 /****Header****/
 
 header {
-	height: 721px;
+	height: 973px;
 	background: url('../img/marz-profile.jpg');
 	background-size: cover;
 	margin: 0 auto;
@@ -37,8 +37,8 @@ header h1 {
     font-size: 140px;
     color: red;
     margin: 0 auto;
-    padding-top: 560px;
-    padding-left: 1080px;
+    padding-top: 790px;
+    padding-left: 1380px;
 }
 
 
@@ -70,6 +70,7 @@ header h1 {
 }
 
 /****Social Media*****/
+
 #social-media1 {
 	background-color: black;
 	height: 100px;
