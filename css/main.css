@@ -45,7 +45,7 @@ header h1 {
 /*****Videos****/
 
 #mainvideo {
-	margin: 40px 0 40px 680px;	
+	margin: 40px 0 40px 600px;	
 }
 
 #subvideo {
@@ -77,7 +77,7 @@ header h1 {
 
 #social-media1 {
 	background-color: black;
-	height: 100px;
+	height: 60px;
 	border-color: red;
 }
 
@@ -90,7 +90,7 @@ header h1 {
 
 #social-media1 h1 {
     color: red;
-    padding-top: 25px;
+    padding-top: 10px;
     text-align: center;
 }
 
