@@ -95,9 +95,34 @@ header h1 {
 
 /***About***/
 
-#about {
+#about1 {
 	background-color: black;
 	color: red;
 	height: 40px;
 	text-align: center;
+}
+
+#about2 {
+	height: 100px;
+}
+
+#about2 p {
+	font-size: 50px;
+}
+
+/***Fan Club***/
+
+#fanclub1 {
+	background-color: black;
+	color: red;
+	height: 40px;
+	text-align: center;
+}
+
+#fanclub2 {
+	height: 100px;
+}
+
+#fanclub2 p {
+	font-size: 50px;
 }
