@@ -1,128 +1,135 @@
-/***** GRID ******/
+/**Head**/
+head {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+}
 
+/**Header**/
+
+header h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+    font-size: 30px;
+}
+
+header h1 span {
+    color: #77a466;
+}
+
+nav {
+    float: right;
+    padding: 14px 0;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+    font-size: 12px;
+    color: #77a466;
+    padding-left: 20px; 
+}
+
+/**Image**/
+#image {
+	border: 3px solid #77a466;
+}
+
+/***GRID***/
 .full-width {
-    max-width: 2000px;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 .half-width {
-    max-width: 1000px;
+    width: 600px;
     float: left;
 }
 
 .third-width {
-    max-width: 665px;
-    float: left;  
+    width: 398px;
+    float: left;
+    
 }
 
-.fourth-width {
-	max-width: 500px;
-	float: left;
+/***Intro Section***/
+
+#intro h2 {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	color: #77a466;
 }
 
-.video-full-width {
-	width: 400px;
-	margin: 0 auto;
+#intro p {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
 }
 
-/****Header****/
+/***portfolio***/
 
-header {
-	height: 978px;
-	background: url('../img/marz-profile.jpg');
-	background-size: cover;
-	margin: 0 auto;
+#portfolio {
+	height: 183px;
+	border-top: 1px solid #dedbdc;
+	border-bottom: 1px solid #dedbdc;
 }
 
-header h1 {
-    font-size: 140px;
-    color: red;
-    margin: 0 auto;
-    padding-top: 793px;
-    padding-left: 1380px;
+#portfolio h3 {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    padding: 7px 0 0 25px;
 }
 
-
-/*****Videos****/
-
-#mainvideo {
-	margin: 40px 0 40px 575px;	
+#portfolio p {
+	text-align: left;
+    font-size: 17px;
+    padding: 0 60px 0 25px;
 }
 
-#subvideo {
-	margin: 0 auto;
-	height: 200px;
+#portfolio #specials p {
+	font-size: 15px;
+	color: #77a466;
+	line-height: 30px;
 }
 
-#video2 {
-    margin: 5px 85px 5px 85px;
+#portfolio #review {
+	margin-bottom: 0;
+	border-left: 1px solid #dedbdc;
+	border-right: 1px solid #dedbdc;
 }
 
-#video3 {
-    margin: 5px 85px 5px 85px;
-}
+/**Footer**/
 
-#video4 {
-    margin: 5px 85px 5px 85px;
-}
-
-#video5 {
-    margin: 5px 85px 5px 85px;
-}
-
-#video6 {
-    margin: 5px 85px 5px 85px;
-}
-
-/****Social Media*****/
-
-#social-media1 {
-	background-color: black;
-	height: 40px;
-	border-color: red;
-}
-
-#social-media2 {
-	background-color: white;
-	border-color: red;
-	border-width: 100px;
-	height: 550px;
-}
-
-#social-media1 h1 {
-    color: red;
-    text-align: center;
-}
-
-/***About***/
-
-#about1 {
-	background-color: black;
-	color: red;
-	height: 40px;
+footer {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
 	text-align: center;
+	font-weight: bolder;
+	padding: 25px;
 }
 
-#about2 {
-	height: 100px;
+footer span {
+    color: #77a466;
+    font-family: 'Pinyon Script', cursive;
 }
 
-#about2 p {
-	font-size: 50px;
+footer #javibier {
+	text-decoration: none;
+	float: right;
+    color: #77a466;
+    font-family: 'Gochi Hand', cursive;
 }
 
-/***Fan Club***/
-
-#fanclub1 {
-	background-color: black;
-	color: red;
-	height: 40px;
+footer #home {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
 	text-align: center;
-}
-
-#fanclub2 {
-	height: 100px;
-}
-
-#fanclub2 p {
-	font-size: 50px;
+	font-weight: bolder;
+	padding: 25px;
 }
