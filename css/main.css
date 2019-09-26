@@ -92,7 +92,7 @@ header h1 {
 #social-media1 h1 {
     color: black;
     text-align: center;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Permanent Marker', cursive;
 }
 
 /***About***/
@@ -102,7 +102,7 @@ header h1 {
 	color: black;
 	height: 40px;
 	text-align: center;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Permanent Marker', cursive;
 }
 
 #about2 {
@@ -120,7 +120,7 @@ header h1 {
 	color: black;
 	height: 40px;
 	text-align: center;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Permanent Marker', cursive;
 }
 
 #fanclub2 {
@@ -138,7 +138,7 @@ footer {
 	padding-right: 10px;
 	text-align: right;
 	background-color: #6FA522;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Permanent Marker', cursive;
 }
 
 footer ul a {
