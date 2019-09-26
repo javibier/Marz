@@ -101,10 +101,11 @@ header h1 {
 	color: red;
 	height: 40px;
 	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
 }
 
 #about2 {
-	height: 100px;
+	height: 400px;
 }
 
 #about2 p {
