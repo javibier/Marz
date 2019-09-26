@@ -122,9 +122,15 @@ header h1 {
 }
 
 #fanclub2 {
-	height: 90px;
+	height: 160px;
 }
 
 #fanclub2 p {
 	font-size: 50px;
+}
+
+/***Footer***/
+
+footer {
+	background-color: black;
 }
