@@ -90,7 +90,7 @@ header h1 {
 }
 
 #social-media1 h1 {
-    color: red;
+    color: black;
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
 }
@@ -99,7 +99,7 @@ header h1 {
 
 #about1 {
 	background-color: #5FA522;
-	color: red;
+	color: black;
 	height: 40px;
 	text-align: center;
 	font-family: 'Shadows Into Light', cursive;
@@ -117,7 +117,7 @@ header h1 {
 
 #fanclub1 {
 	background-color: #6FA522;
-	color: red;
+	color: black;
 	height: 40px;
 	text-align: center;
 	font-family: 'Shadows Into Light', cursive;
@@ -134,5 +134,7 @@ header h1 {
 /***Footer***/
 
 footer {
-	background-color: black;
+	text-align: right;
+	background-color: #6FA522;
+	font-family: 'Shadows Into Light', cursive;
 }
