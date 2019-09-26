@@ -111,6 +111,7 @@ header h1 {
 
 #about2 p {
 	font-size: 50px;
+	font-family: 'Handlee', cursive;
 }
 
 /***Fan Club***/
@@ -124,11 +125,12 @@ header h1 {
 }
 
 #fanclub2 {
-	height: 160px;
+	height: 200px;
 }
 
 #fanclub2 p {
 	font-size: 50px;
+	font-family: 'Handlee', cursive;
 }
 
 /***Footer***/
