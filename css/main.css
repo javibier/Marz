@@ -78,8 +78,8 @@ header h1 {
 
 #social-media1 {
 	background-color: #6FA522;
-	height: 40px;
 	border-color: red;
+	height: 40px;
 }
 
 #social-media2 {
@@ -91,8 +91,8 @@ header h1 {
 
 #social-media1 h1 {
     color: black;
-    text-align: center;
     font-family: 'Permanent Marker', cursive;
+    text-align: center;
 }
 
 /***About***/
