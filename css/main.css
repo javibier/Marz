@@ -5,23 +5,23 @@
 }
 
 .half-width {
+	float: left;
     max-width: 1000px;
-    float: left;
 }
 
 .third-width {
+	float: left;
     max-width: 665px;
-    float: left;  
 }
 
 .fourth-width {
-	max-width: 500px;
 	float: left;
+	max-width: 500px;
 }
 
 .video-full-width {
-	width: 400px;
 	margin: 0 auto;
+	width: 400px;
 }
 
 /****Header****/
