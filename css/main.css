@@ -100,9 +100,9 @@ header h1 {
 #about1 {
 	background-color: #5FA522;
 	color: black;
+	font-family: 'Permanent Marker', cursive;
 	height: 40px;
 	text-align: center;
-	font-family: 'Permanent Marker', cursive;
 }
 
 #about2 {
