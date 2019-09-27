@@ -27,11 +27,11 @@
 /****Header****/
 
 header {
-	height: 978px;
 	background: url('../img/marz-profile.jpg');
 	background-size: cover;
-	margin: 0 auto;
 	font-family: 'Shadows Into Light', cursive;
+	height: 978px;
+	margin: 0 auto;
 }
 
 header h1 {
