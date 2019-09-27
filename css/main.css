@@ -110,8 +110,8 @@ header h1 {
 }
 
 #about2 p {
-	font-size: 50px;
 	font-family: 'Handlee', cursive;
+	font-size: 50px;
 }
 
 /***Fan Club***/
@@ -119,9 +119,9 @@ header h1 {
 #fanclub1 {
 	background-color: #6FA522;
 	color: black;
+	font-family: 'Permanent Marker', cursive;
 	height: 40px;
 	text-align: center;
-	font-family: 'Permanent Marker', cursive;
 }
 
 #fanclub2 {
@@ -129,8 +129,8 @@ header h1 {
 }
 
 #fanclub2 p {
-	font-size: 50px;
 	font-family: 'Handlee', cursive;
+	font-size: 50px;
 }
 
 /***Footer***/
